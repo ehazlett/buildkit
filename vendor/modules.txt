@@ -24,7 +24,7 @@ github.com/apache/thrift/lib/go/thrift
 github.com/codahale/hdrhistogram
 # github.com/containerd/console v0.0.0-20180822173158-c12b1e7919c1
 github.com/containerd/console
-# github.com/containerd/containerd v1.3.0-0.20190321141026-ceba56893a76
+# github.com/containerd/containerd v1.3.0-0.20190321141026-ceba56893a76 => github.com/containerd/containerd v1.2.1-0.20190322212815-68c44f8cc8a3
 github.com/containerd/containerd/filters
 github.com/containerd/containerd/mount
 github.com/containerd/containerd/snapshots
@@ -190,7 +190,7 @@ github.com/opencontainers/go-digest
 github.com/opencontainers/image-spec/specs-go/v1
 github.com/opencontainers/image-spec/specs-go
 github.com/opencontainers/image-spec/identity
-# github.com/opencontainers/runc v1.0.1-0.20190307181833-2b18fe1d885e
+# github.com/opencontainers/runc v1.0.1-0.20190307181833-2b18fe1d885e => github.com/opencontainers/runc v1.0.1-0.20190307181833-2b18fe1d885e
 github.com/opencontainers/runc/libcontainer/system
 github.com/opencontainers/runc/libcontainer/user
 # github.com/opencontainers/runtime-spec v0.0.0-20180909173843-eba862dc2470

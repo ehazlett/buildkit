@@ -14,6 +14,8 @@ github.com/containerd/cgroups v0.0.0-20190226200435-dbea6f2bd416 h1:AaSMvkPaxfZD
 github.com/containerd/cgroups v0.0.0-20190226200435-dbea6f2bd416/go.mod h1:X9rLEHIqSf/wfK8NsPqxJmeZgW4pcfzdXITDrUSJ6uI=
 github.com/containerd/console v0.0.0-20180822173158-c12b1e7919c1 h1:uict5mhHFTzKLUCufdSLym7z/J0CbBJT59lYbP9wtbg=
 github.com/containerd/console v0.0.0-20180822173158-c12b1e7919c1/go.mod h1:Tj/on1eG8kiEhd0+fhSDzsPAFESxzBBvdyEgyryXffw=
+github.com/containerd/containerd v1.2.1-0.20190322212815-68c44f8cc8a3 h1:qSo0LG8mX7qpehSgjpXurqLEbTl5WrZTbrzQd/JtlgA=
+github.com/containerd/containerd v1.2.1-0.20190322212815-68c44f8cc8a3/go.mod h1:bC6axHOhabU15QhwfG7w5PipXdVtMXFTttgp+kVtyUA=
 github.com/containerd/containerd v1.2.4 h1:qN8LCvw+KA5wVCOnHspD/n2K9cJ34+YOs05qBBWhHiw=
 github.com/containerd/containerd v1.2.4/go.mod h1:bC6axHOhabU15QhwfG7w5PipXdVtMXFTttgp+kVtyUA=
 github.com/containerd/containerd v1.3.0-0.20190321141026-ceba56893a76 h1:+do6jVam4JCI9KPBxTzrJpNpu0ZoMpsexTLAAQYNzaQ=

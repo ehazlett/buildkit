@@ -69,3 +69,7 @@ require (
 )
 
 replace github.com/hashicorp/go-immutable-radix => github.com/tonistiigi/go-immutable-radix v0.0.0-20170803185627-826af9ccf0fe
+
+replace github.com/containerd/containerd => github.com/containerd/containerd v1.2.1-0.20190322212815-68c44f8cc8a3
+
+replace github.com/opencontainers/runc => github.com/opencontainers/runc v1.0.1-0.20190307181833-2b18fe1d885e
